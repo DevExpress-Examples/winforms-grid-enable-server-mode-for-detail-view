@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q205267_4/Form1.cs) (VB: [Form1.vb](./VB/Q205267_4/Form1.vb))
+* [MyGridControl.cs](./CS/Q205267_4/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/Q205267_4/MyGridControl.vb))
+* [PersistentClasses1.cs](./CS/Q205267_4/PersistentClasses1.cs) (VB: [PersistentClasses1.vb](./VB/Q205267_4/PersistentClasses1.vb))
+<!-- default file list end -->
 # How to use the Server Mode feature for the detail view
 
 
