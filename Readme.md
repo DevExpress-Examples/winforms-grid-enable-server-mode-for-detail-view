@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to use the Server Mode feature for the detail view
+# WinForms Data Grid - Enable Server Mode for a detail view
 
 This example demonstrates how to create a `GridView` descendant that shows detail records in Server Mode. In this example:
 
@@ -22,6 +22,7 @@ This example demonstrates how to create a `GridView` descendant that shows detai
 
 ## Documentation
 
+* [Large Data Sources: Server and Instant Feedback Modes](https://docs.devexpress.com/WindowsForms/8398/controls-and-libraries/data-grid/data-binding/large-data-sources-server-and-instant-feedback-modes)
 * [Master-Detail Relationships](https://docs.devexpress.com/WindowsForms/3473/controls-and-libraries/data-grid/master-detail-relationships)
 * [Working with Master-Detail Relationships in Code](https://docs.devexpress.com/WindowsForms/732/controls-and-libraries/data-grid/master-detail/working-with-master-detail-relationships-in-code)
 
