@@ -8,8 +8,8 @@
 
 This example demonstrates how to create a `GridView` descendant that shows detail records in Server Mode. In this example:
 
-* Set the GridControl's [ShowOnlyPredefinedDetails](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl.ShowOnlyPredefinedDetails) properties to **true**.
-* Add detail levels to the GridControl's using the [LevelTree](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl.LevelTree).
+* Set the GridControl's [ShowOnlyPredefinedDetails](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl.ShowOnlyPredefinedDetails) property to **true**.
+* Add detail levels to the GridControl using the [LevelTree](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl.LevelTree).
 * Specify an instance of the `MyGridView` class for each level and set the `MyGridView.VirtualMasterDetailMode` property to `Master` or `Detail`. The child list for detail views is created at runtime using events. Read the following help topic for additional information: [Master-Detail: Using Events](https://docs.devexpress.com/WindowsForms/732/controls-and-libraries/data-grid/master-detail/working-with-master-detail-relationships-in-code).
 
 
